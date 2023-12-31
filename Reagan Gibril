@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RGT Tech - Green Technology Platform</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+        }
+
+        header {
+            background-color: #2ecc71;
+            color: #fff;
+            padding: 1em;
+            text-align: center;
+        }
+
+        main {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        button {
+            display: block;
+            margin: 20px auto;
+            padding: 10px 20px;
+            font-size: 16px;
+            background-color: #2ecc71;
+            color: #fff;
+            border: none;
+            cursor: pointer;
+        }
+
+        footer {
+            text-align: center;
+            padding: 1em;
+            background-color: #2ecc71;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>RGT Tech - Green Technology Platform</h1>
+    </header>
+
+    <main>
+        <h2>Welcome to RGT Tech</h2>
+        <p>
+            RGT Tech is a leading platform for green technology, committed to promoting sustainable solutions for a better future. Explore our initiatives and discover how we contribute to a greener world.
+        </p>
+
+        <!-- Add more content as needed -->
+
+        <button onclick="location.href='#projects'">Explore Projects</button>
+    </main>
+
+    <footer>
+        &copy; 2023 RGT Tech - Green Technology Platform
+    </footer>
+
+</body>
+</html>
